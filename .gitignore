@@ -1,2 +1,4 @@
 Data/
 descriptions.txt
+encoded_test_features.pkl
+encoded_train_features.pkl
