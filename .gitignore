@@ -6,3 +6,4 @@ glove.6B.50d.txt
 model_weights/
 storage/
 image.jpg
+test_caption_module.ipynb
