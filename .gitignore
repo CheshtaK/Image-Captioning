@@ -5,3 +5,4 @@ encoded_train_features.pkl
 glove.6B.50d.txt
 model_weights/
 storage/
+image.jpg
